@@ -1,6 +1,6 @@
 - 👋 Hi, I’m: Longy
 - 👀 I’m interested in: Suffering
-- 🌱 I’m currently learning: C++
+- 🌱 I’m currently learning: Kotlin
 - 💞️ I’m looking to collaborate on: Amogus
 - 📫 How to reach me: You Dont
 
